@@ -17,3 +17,18 @@
     background-color: var(--bs-danger);
     color: white;
 }
+.col6{
+    background-color: var(--bs-info);
+    color: white;
+}
+.col7{
+    background-color: var(--bs-warning);
+    color: white;
+}
+.col8{
+    background-color: #000;
+    color: white;
+}
+.col9{
+    background-color: var(--bs-light);
+}
