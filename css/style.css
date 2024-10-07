@@ -1,0 +1,7 @@
+.col1{
+    background-color: var(--bs-light);
+}
+.col2{
+    background-color: var(--bs-tertiary-color);
+    color: white;
+}
