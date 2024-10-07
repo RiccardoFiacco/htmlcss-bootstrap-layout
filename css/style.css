@@ -1,34 +1,52 @@
 .col1{
     background-color: var(--bs-light);
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col2{
     background-color: var(--bs-tertiary-color);
     color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col3{
     background-color: var(--bs-primary);
     color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col4{
     background-color: var(--bs-success);
     color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col5{
     background-color: var(--bs-danger);
     color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col6{
     background-color: var(--bs-info);
     color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col7{
     background-color: var(--bs-warning);
     color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col8{
     background-color: #000;
     color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .col9{
     background-color: var(--bs-light);
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
