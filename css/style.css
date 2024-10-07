@@ -5,3 +5,12 @@
     background-color: var(--bs-tertiary-color);
     color: white;
 }
+.col3{
+    background-color: var(--bs-primary);
+}
+.col4{
+    background-color: var(--bs-success);
+}
+.col5{
+    background-color: var(--bs-danger);
+}
